@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets
+accelerate
+streamlit>=1.22.0
+# 仅适用于Apple Silicon (M系列芯片)
+# mlx_whisper>=0.1.0 

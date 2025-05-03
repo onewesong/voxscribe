@@ -1,0 +1,1 @@
+"""VoxScribe - 优雅的音频转文字工具，基于OpenAI whisper-large-v3-turbo模型""" 
